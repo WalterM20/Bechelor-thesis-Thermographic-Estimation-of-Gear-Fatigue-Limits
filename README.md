@@ -14,7 +14,7 @@ The primary objective is to validate TCM as a rapid, non-destructive alternative
 
 ## ⚙️ Methodology
 
-The research utilizes a variant of the **European Single Tooth Bending Fatigue (STBF)** test (Wildhaber measurement configuration)[cite: 17, 375].
+The research utilizes a variant of the **European Single Tooth Bending Fatigue (STBF)** test (Wildhaber measurement configuration).
 
 ### The Two Curves Method (TCM)
 The fatigue limit is estimated by analyzing thermal parameters extracted from infrared thermography data. Two regression approaches were compared:
