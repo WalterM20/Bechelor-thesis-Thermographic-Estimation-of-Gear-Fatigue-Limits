@@ -8,7 +8,7 @@
 
 ## 📖 Project Overview
 
-This project investigates the fatigue behavior of **C45 steel gears**, focusing on the estimation of the fatigue limit using the **Two Curves Method (TCM)**—an innovative methodology based on thermographic analysis. The study compares the fatigue response of untreated gears against induction-hardened gears to evaluate the impact of surface treatments on mechanical resistance.
+This project investigates the fatigue behavior of **C45 steel gears**, focusing on the estimation of the fatigue limit using the **Two Curves Method (TCM)**: an innovative methodology based on thermographic analysis. The study compares the fatigue response of untreated gears against induction-hardened gears to evaluate the impact of surface treatments on mechanical resistance.
 
 The primary objective is to validate TCM as a rapid, non-destructive alternative to traditional statistical methods (such as the Stair-Case method) for detecting the transition between unlimited and limited fatigue life.
 
